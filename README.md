@@ -4,4 +4,4 @@
 - Javaアプレットの2Dシューティングゲーム
 
 ## 画像
-![画像](https://github.com/Uchi8610/G.shooting/geme.jpg)
+![画像](bin/geme.jpg)
